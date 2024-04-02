@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "a231ad9a9f8bce0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfad15ea9ae79abd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7734bbc46df9063c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Initial thoughts (Subject to change).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b554f2ca3baa071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Initial thoughts (Subject to change).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f824c0f173aeeb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "13424c59e3ab750f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c46696f9aae10c18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7680a8616d5f5cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5c45b439b735f74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10f824fff45ada2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "599e4a57fc8c2bac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d43df4631aade06e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Initial thoughts (Subject to change).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f867dc5a560c3760",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Initial thoughts (Subject to change).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12315feec8f01579",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6407aaea4ff8ab99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Initial thoughts (Subject to change).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7734bbc46df9063c",
+  "lastOpenFiles": [
+    "Weapons List/Weapons to port.md",
+    "Weapons List/Attachment Ideas.md",
+    "Initial thoughts (Subject to change).md",
+    "Images Folder",
+    "Images Folder/Pasted image 20240402154143.png",
+    "Welcome.md",
+    "Weapons List"
+  ]
+}
