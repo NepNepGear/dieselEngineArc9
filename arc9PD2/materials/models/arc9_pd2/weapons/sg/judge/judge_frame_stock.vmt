@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/arc9_pd2/weapons/sg/judge/judge_frame_stock"
+	"$bumpmap" "models/arc9_pd2/weapons/sg/judge/judge_frame_stock_n"
+}
