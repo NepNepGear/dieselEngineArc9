@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/arc9_pd2/weapons/smg/p90/short_barrel"
+	"$bumpmap" "models/arc9_pd2/weapons/smg/p90/short_barrel_normal"
+}

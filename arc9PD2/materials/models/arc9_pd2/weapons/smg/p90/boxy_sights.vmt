@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/arc9_pd2/weapons/smg/p90/boxy_sights"
+	"$bumpmap" "models/arc9_pd2/weapons/smg/p90/boxy_sights_normal"
+}

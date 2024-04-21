@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/arc9_pd2/weapons/smg/p90/magazine"
+	"$bumpmap" "models/arc9_pd2/weapons/smg/p90/magazine_normal"
+	"$nocull" 1
+	"$translucent" 1
+}

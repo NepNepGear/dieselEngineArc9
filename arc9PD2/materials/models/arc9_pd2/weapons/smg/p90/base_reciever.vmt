@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/arc9_pd2/weapons/smg/p90/base_reciever"
+	"$bumpmap" "models/arc9_pd2/weapons/smg/p90/base_reciever_normal"
+}
