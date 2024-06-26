@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initial thoughts (Subject to change).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b554f2ca3baa071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Initial thoughts (Subject to change).md",
+                "file": "Weapons List/Weapons to port.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initial thoughts (Subject to change).md",
+                "file": "Weapons List/Weapons to port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initial thoughts (Subject to change).md",
+                "file": "Weapons List/Weapons to port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initial thoughts (Subject to change).md"
+                "file": "Weapons List/Weapons to port.md"
               }
             }
           }
@@ -160,9 +148,9 @@
   },
   "active": "7734bbc46df9063c",
   "lastOpenFiles": [
+    "Initial thoughts (Subject to change).md",
     "Weapons List/Weapons to port.md",
     "Weapons List/Attachment Ideas.md",
-    "Initial thoughts (Subject to change).md",
     "Images Folder",
     "Images Folder/Pasted image 20240402154143.png",
     "Welcome.md",
